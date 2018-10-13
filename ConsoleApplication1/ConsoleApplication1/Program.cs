@@ -8,7 +8,7 @@ namespace ConsoleApplication1
 {
     class Program
     {
-        //Test2 oct09aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+        //Test2 oct09
         static void Main(string[] args)
         {
         }
